@@ -1,0 +1,20 @@
+---
+import Ola from "./Ola.astro";
+---
+
+<div
+  class="bg-gray-700 rounded-2xl h-45 shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300 relative"
+>
+
+
+  <!-- Contenido por encima de la ola -->
+  <div class="text-gray-400 p-4 relative z-10">
+    <h2 class="text-xl font-bold text-gray-300">NOMBRE EVENTO</h2>
+    <p>Fecha: 01-01-2025</p>
+    <p>FEDERACION</p>
+  </div>
+    <!-- Ola como fondo -->
+  <div class="absolute  z-0">
+    <Ola />
+  </div>
+</div>
