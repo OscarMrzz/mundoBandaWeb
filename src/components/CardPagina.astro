@@ -1,0 +1,32 @@
+---
+import Ola from "./Ola.astro";
+
+export interface Props {
+  Titulo: string;
+  direccion?: string;
+}
+const { Titulo, direccion } = Astro.props;
+---
+
+<a href={direccion ? direccion : '#'}>
+  <div
+    class="bg-gray-700 rounded-2xl h-45 shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300 relative"
+  >
+  <div class="flex justify-center items-center h-full flex-col">
+    <!-- Contenido por encima de la ola -->
+
+
+   <div class="flex justify-center items-center ">
+
+      <slot/>
+    </div>
+    <div class="text-gray-400 p-4 relative z-10">
+      <h2 class="text-lg font-bold text-gray-300">{Titulo}</h2>
+    </div>
+      </div>
+    
+    <div class="absolute z-0">
+  
+    </div>
+  </div>
+</a>

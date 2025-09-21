@@ -1,32 +1,53 @@
 ---
-import CardEvento from "./CardEvento.astro";
+import CalendarioIcono from "../Iconos/CalendarioIcono.astro";
+import FederacionesIconos from "../Iconos/FederacionesIconos.astro";
+import GraficaBarraIcono from "../Iconos/GraficaBarraIcono.astro";
+import MusicaIcono from "../Iconos/musicaIcono.astro";
+import PremioIcono from "../Iconos/PremioIcono.astro";
+import TrofeosIcono from "../Iconos/TrofeosIcono.astro";
+import CardPagina from "./CardPagina.astro";
 import Hiro from "./Hiro.astro";
 import NotaPrincipal from "./NotaPrincipal.astro";
 import TarjetaFederacion from "./TarjetaFederacion.astro";
-
-
 ---
 
-<div class="home bg-gray-800 h-full">
-	<Hiro/>
-<div class="flex overflow-hidden gap-2 p-5">
-	<TarjetaFederacion/>
-	<TarjetaFederacion/>
-	<TarjetaFederacion/>
-	<TarjetaFederacion/>
-	<TarjetaFederacion/>
-	<TarjetaFederacion/>
+<div class="home h-full">
+  <Hiro />
+  <div class="flex overflow-hidden gap-2 p-5">
+    <TarjetaFederacion />
+    <TarjetaFederacion />
+    <TarjetaFederacion />
+    <TarjetaFederacion />
+    <TarjetaFederacion />
+    <TarjetaFederacion />
+  </div>
+  <div class="p-5">
+    <NotaPrincipal />
+  </div>
+  <div class="grid grid-cols-2 gap-4 p-4">
+    <CardPagina Titulo="EVENTOS">
+      <CalendarioIcono />
+    </CardPagina>
+    <CardPagina Titulo="COPAS">
+      <TrofeosIcono />
+    </CardPagina>
+    <CardPagina Titulo="TABLAS">
+      <GraficaBarraIcono />
+    </CardPagina>
+    <CardPagina Titulo="FEDERACIONES">
+      <FederacionesIconos />
+    </CardPagina>
+    <CardPagina Titulo="BANDAS">
+      <i class="fi fi-br-drum text-5xl text-white"></i>
+    </CardPagina>
+    <CardPagina Titulo="MUSICA">
+      <MusicaIcono />
+    </CardPagina>
+    <CardPagina Titulo="MB AWARDS">
+      <PremioIcono />
+    </CardPagina>
+    <CardPagina Titulo="SALON DE LA FAMA">
+      <i class="fi fi-br-bank text-5xl text-white"></i>
+    </CardPagina>
+  </div>
 </div>
-<div class="p-5">
-
-	<NotaPrincipal/>
-</div>
-<div class="grid grid-cols-2 gap-4 p-4">
-	<CardEvento/>
-	<CardEvento/>
-	<CardEvento/>
-	<CardEvento/>
-</div>
-
-</div>
-
