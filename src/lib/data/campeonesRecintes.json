@@ -1,0 +1,95 @@
+[
+    {
+        "idBanda": 1,
+        "nombreBanda": "PATRIA",
+        "posicion": 1,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/patria.jpg",
+        "federacion": "FECCAH",
+        "categoria": "PREMIER",
+        "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 2,
+        "nombreBanda": "ASB",
+        "posicion": 2,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/ASB.jpg",
+        "federacion": "FECCAH",
+        "categoria": "PREMIER",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 3,
+        "nombreBanda": "Rigmo y son se Sigua",
+        "posicion": 3,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/CORSIG.jpg",
+        "federacion": "FECCAH",
+        "categoria": "PREMIER",
+         "evento": "Leon Alvarado"
+    },
+    
+      {
+        "idBanda": 4,
+        "nombreBanda": "Banda Independiente Teleña",
+        "posicion": 1,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/BIT.jpg",
+        "federacion": "FECCAH",
+        "categoria": "A",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 5,
+        "nombreBanda": "Banda Independiente de Saba",
+        "posicion": 2,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/SABA.jpg",
+        "federacion": "FECCAH",
+        "categoria": "A",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 6,
+        "nombreBanda": "Banda Independiente Cristo Rey",
+        "posicion": 3,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/IndCristoRey.jpg",
+        "federacion": "FECCAH",
+        "categoria": "A",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 7,
+        "nombreBanda": "Delfina mejoa",
+        "posicion": 1,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/Delfina.jpg",
+        "federacion": "FECCAH",
+        "categoria": "B",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 8,
+        "nombreBanda": "Minerva",
+        "posicion": 2,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/Minerva.jpg",
+        "federacion": "FECCAH",
+        "categoria": "B",
+         "evento": "Leon Alvarado"
+    },
+    {
+        "idBanda": 9,
+        "nombreBanda": "Lluvia de peces",
+        "posicion": 3,
+        "fechaEvento": "2024-10-15",
+        "imagenBandaURL": "img/logos/FECCAH/LluviaDePeces.jpg",
+        "federacion": "FECCAH",
+        "categoria": "B",
+         "evento": "Leon Alvarado"
+    }
+      
+    
+]
