@@ -13,41 +13,46 @@ import TarjetaFederacion from "./TarjetaFederacion.astro";
 
 <div class="home h-full">
   <Hiro />
-  <div class="flex overflow-hidden gap-2 p-5">
-    <TarjetaFederacion />
-    <TarjetaFederacion />
-    <TarjetaFederacion />
-    <TarjetaFederacion />
-    <TarjetaFederacion />
-    <TarjetaFederacion />
-  </div>
-  <div class="p-5">
-    <NotaPrincipal />
-  </div>
+
+  <h2></h2>
+
   <div class="grid grid-cols-2 gap-4 p-4">
-    <CardPagina Titulo="EVENTOS">
+	  <CardPagina Titulo="CAMPEONES RECIENTES" 
+	  direccion="/CampeonesRecientes"
+	  columnas={2} 
+	  filas={1}
+	  hojaActiva={true}
+
+	  >
+      <i class="fi fi-br-crown text-5xl text-white"></i>
+    </CardPagina>
+    <CardPagina Titulo="EVENTOS " columnas={1} filas={2}>
       <CalendarioIcono />
     </CardPagina>
-    <CardPagina Titulo="COPAS">
+    <CardPagina Titulo="COPAS" 
+	columnas={1} 
+	filas={1} 
+	hojaActiva={false}>
       <TrofeosIcono />
     </CardPagina>
-    <CardPagina Titulo="TABLAS">
-      <GraficaBarraIcono />
+    <CardPagina Titulo="TABLAS" columnas={1} filas={1}>
+      <GraficaBarraIcono columnas={1} filas={1} />
     </CardPagina>
-    <CardPagina Titulo="FEDERACIONES">
+    <CardPagina Titulo="FEDERACIONES" columnas={2} filas={1}>
       <FederacionesIconos />
     </CardPagina>
-    <CardPagina Titulo="BANDAS">
+    <CardPagina Titulo="BANDAS" columnas={1} filas={1}>
       <i class="fi fi-br-drum text-5xl text-white"></i>
     </CardPagina>
-    <CardPagina Titulo="MUSICA">
+    <CardPagina Titulo="MUSICA" columnas={1} filas={2}>
       <MusicaIcono />
     </CardPagina>
-    <CardPagina Titulo="MB AWARDS">
+    <CardPagina Titulo="MB AWARDS" columnas={1} filas={1}>
       <PremioIcono />
     </CardPagina>
-    <CardPagina Titulo="SALON DE LA FAMA">
+    <CardPagina Titulo="SALON DE LA FAMA" columnas={2} filas={1}>
       <i class="fi fi-br-bank text-5xl text-white"></i>
     </CardPagina>
+  
   </div>
 </div>

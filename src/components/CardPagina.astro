@@ -4,15 +4,22 @@ import Ola from "./Ola.astro";
 export interface Props {
   Titulo: string;
   direccion?: string;
+  columnas: number;
+  filas: number;
+  hojaActiva?: boolean;
 }
-const { Titulo, direccion } = Astro.props;
+const { Titulo, direccion , columnas, filas, hojaActiva=false} = Astro.props;
 ---
 
-<a href={direccion ? direccion : '#'}>
+<a href={direccion ? direccion : '#'}
+    class={`col-span-${columnas} row-span-${filas}`}
+
+
+>
   <div
-    class="bg-gray-700 rounded-2xl h-45 shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300 relative"
+    class=`${hojaActiva? "bg-gray-700" :"bg-gray-700 opacity-20"}  rounded-2xl h-full  shadow-lg overflow-hidden hover:scale-105 transition-transform duration-300 relative`
   >
-  <div class="flex justify-center items-center h-full flex-col">
+  <div class="flex justify-center items-center h-full flex-col p-4">
     <!-- Contenido por encima de la ola -->
 
 
@@ -22,6 +29,9 @@ const { Titulo, direccion } = Astro.props;
     </div>
     <div class="text-gray-400 p-4 relative z-10">
       <h2 class="text-lg font-bold text-gray-300">{Titulo}</h2>
+    </div>
+    <div>
+     {!hojaActiva? <span class="text-red-400">en desarollo...</span>:null}
     </div>
       </div>
     

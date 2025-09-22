@@ -1,0 +1,42 @@
+---
+import TrofeosIcono from "../Iconos/TrofeosIcono.astro";
+
+import type { campeonesInterface } from "../interfaces/interfaces";
+export interface Props {
+  campeon: campeonesInterface;
+}
+const { campeon } = Astro.props;
+---
+
+<div
+  class="bg-orange-600 h-35 gap-4 rounded-2xl flex shadow-lg justify-between overflow-hidden "
+>
+ <div class="bg-gray-200  w-80  ">
+      <img class="object-cover w-full h-full" src={campeon.imagenBandaURL} alt="" />
+    </div>
+
+   
+    <div class="flex flex-col  w-full">
+
+   
+    <h2 class="text-lg font-bold text-white">{campeon.nombreBanda}</h2>
+   
+      <p class="text-white">{campeon.categoria}</p>
+      <p class="text-white">{campeon.evento}</p>
+   
+     
+  </div>
+  <div class="pr-4">
+    <div class="flex justify-center h-full items-center">
+      <div>
+        <div class="flex relative">
+          <span class=""><TrofeosIcono /></span>
+          <span
+            class="text-orange-400 absolute text-2xl font-bold top-2.5 left-5.75"
+            >{campeon.posicion}</span
+          >
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

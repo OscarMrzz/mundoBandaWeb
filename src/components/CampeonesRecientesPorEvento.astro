@@ -1,0 +1,44 @@
+---
+import Campeon from "./Campeon.astro";
+
+    import type { campeonesInterface, campeonesEscuadraInteface } from '../interfaces/interfaces';
+    export interface Props {
+        evento: string;
+        Federacion?: string;
+        campeones: campeonesInterface[];
+        categorias: string[];
+
+    
+    }
+    const { evento, campeones, Federacion, categorias } = Astro.props;
+
+   
+---
+
+<section class="flex flex-col gap-10">
+  <div class="flex flex-col pl-10  ">
+    <h2 class="text-2xl text-gray-200 font-bold">{evento}</h2>
+    <p class="text-gray-200">{Federacion}</p>
+  </div>
+  <div class="flex flex-col gap-10">
+
+    {campeones.length > 0 ? categorias.map((categoria) => (
+        <article>
+            <div class="flex flex-col p-4">
+            <p class="text-gray-200 text-2xl font-bold">{categoria}</p>
+            </div>
+    
+            <div class="flex flex-col gap-4 px-4">
+            {campeones
+                .filter((campeon) => campeon.categoria === categoria)
+                .map((campeon) => (
+                <Campeon campeon={campeon} />
+                ))}
+            </div>
+        </article>
+        )) : null
+    
+   }
+   
+  </div>
+</section>
