@@ -1,7 +1,7 @@
 [
     {
         "idBanda": 1,
-        "nombreBanda": "PATRIA",
+        "nombreBanda": "Patria",
         "posicion": 1,
         "fechaEvento": "2024-10-15",
         "imagenBandaURL": "img/logos/FECCAH/patria.jpg",
@@ -21,7 +21,7 @@
     },
     {
         "idBanda": 3,
-        "nombreBanda": "Rigmo y son se Sigua",
+        "nombreBanda": "Ritmo y son se Sigua",
         "posicion": 3,
         "fechaEvento": "2024-10-15",
         "imagenBandaURL": "img/logos/FECCAH/CORSIG.jpg",
