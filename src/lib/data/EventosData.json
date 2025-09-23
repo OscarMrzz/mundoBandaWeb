@@ -1,0 +1,207 @@
+[{
+    "id": 1,
+    "LugarEvento": "FESTIVAL INAUGURAL INST. LEON ALVARADO",
+    "FechaEvento": "2025-06-15",
+    "ciudadEvento": "COMAYAGUA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 2,
+    "LugarEvento": "INSTITUTO OFICIAL PATRIA",
+    "FechaEvento": "2025-06-22",
+    "ciudadEvento": "LA LIMA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 3,
+    "LugarEvento": "INSTITUTO OFICIAL FRANKLIN DELANO ROOSEVELT",
+    "FechaEvento": "2025-06-29",
+    "ciudadEvento": "PUERTO CORTÉS",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 4,
+    "LugarEvento": "INSTITUTO SAN ANTONIO",
+    "FechaEvento": "2025-07-06",
+    "ciudadEvento": "TELA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 5,
+    "LugarEvento": "BANDA INDEPENDIENTE COFRADIA",
+    "FechaEvento": "2025-07-13",
+    "ciudadEvento": "COLONIA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 6,
+    "LugarEvento": "INSTITUTO MANUEL PAGAN LOZANO",
+    "FechaEvento": "2025-07-20",
+    "ciudadEvento": "CHOLOMA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 7,
+    "LugarEvento": "INST. FROYLAN TURCIOS (NACIONAL DEL AGUA)",
+    "FechaEvento": "2025-07-27",
+    "ciudadEvento": "TOCOA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 8,
+    "LugarEvento": "BANDA INDEPENDIENTE PUERTO CORTÉS (IPC)",
+    "FechaEvento": "2025-08-03",
+    "ciudadEvento": "PUERTO CORTÉS",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 9,
+    "LugarEvento": "BANDA INDEPENDIENTE MORAZAN",
+    "FechaEvento": "2025-08-10",
+    "ciudadEvento": "MORAZAN, YORO",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 10,
+    "LugarEvento": "INSTITUTO PRIVADO SAN RAMON",
+    "FechaEvento": "2025-08-17",
+    "ciudadEvento": "VILLANUEVA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 11,
+    "LugarEvento": "INSTITUTO EVANGELICO SUPERACION",
+    "FechaEvento": "2025-08-24",
+    "ciudadEvento": "CHAMELECON",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 12,
+    "LugarEvento": "INST. DELFINA MEJIA (NACIONAL PRINCIPAL)",
+    "FechaEvento": "2025-08-31",
+    "ciudadEvento": "OMOA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 13,
+    "LugarEvento": "INSTITUTO PERLA DEL ULUUA",
+    "FechaEvento": "2025-09-07",
+    "ciudadEvento": "EL PROGRESO",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 14,
+    "LugarEvento": "CELEBRACION DE LOS DESFILES PATRIOS",
+    "FechaEvento": "2025-09-14",
+    "ciudadEvento": "NACIONAL",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 15,
+    "LugarEvento": "INST. LEON ALVARADO (NACIONAL CENTRO SURORIENTE)",
+    "FechaEvento": "2025-09-21",
+    "ciudadEvento": "COMAYAGUA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 16,
+    "LugarEvento": "COMPETENCIA NACIONAL UTH",
+    "FechaEvento": "2025-09-28",
+    "ciudadEvento": "SAN PEDRO SULA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 17,
+    "LugarEvento": "FERIADO MORAZANICO",
+    "FechaEvento": "2025-10-05",
+    "ciudadEvento": "FERIADO",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 18,
+    "LugarEvento": "BANDA INDEPENDIENTE TECNO",
+    "FechaEvento": "2025-10-12",
+    "ciudadEvento": "SAN PEDRO SULA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 19,
+    "LugarEvento": "BANDA INDEP. ESPERANZA (NACIONAL OCCIDENTE)",
+    "FechaEvento": "2025-10-19",
+    "ciudadEvento": "LA ESPERANZA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 20,
+    "LugarEvento": "BANDA INDEPENDIENTE TELA",
+    "FechaEvento": "2025-10-26",
+    "ciudadEvento": "TELA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 21,
+    "LugarEvento": "BANDA INDEPENDIENTE ASB",
+    "FechaEvento": "2025-11-02",
+    "ciudadEvento": "SAN PEDRO SULA",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 22,
+    "LugarEvento": "DESCANSO",
+    "FechaEvento": "2025-11-09",
+    "ciudadEvento": "DESCANSO",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+},
+{
+    "id": 23,
+    "LugarEvento": "GRAN FINAL NACIONAL",
+    "FechaEvento": "2025-11-16",
+    "ciudadEvento": "POR DEFINIR",
+    "FederacionEvento": "FECCAH",
+    "contactoEvento": "pendiente",
+    "CordenadasEvento": "pendiente"
+}]
