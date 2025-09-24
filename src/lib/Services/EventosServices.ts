@@ -1,5 +1,5 @@
 import type { eventoInterface } from "../../interfaces/interfaces";
-import EventosData from "../Data/EventosData.json";
+import EventosData from "../data/EventosData.json";
 
 export default class EventosServices {
 
