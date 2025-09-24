@@ -1,16 +1,57 @@
 ---
 import EventoComponent from "./EventoComponent.astro";
+import EventosServices from "../../lib/Services/EventosServices";
+import type { eventoInterface } from "../../interfaces/interfaces";
+import { string } from "astro:schema";
+
+const eventosServices = new EventosServices();
+const eventosData: eventoInterface[] = await eventosServices.get();
+const meses: Record<string, string> = {
+  "01": "ENERO",
+  "02": "FEBRERO",
+  "03": "MARZO",
+  "04": "ABRIL",
+  "05": "MAYO",
+  "06": "JUNIO",
+  "07": "JULIO",
+  "08": "AGOSTO",
+  "09": "SEPTIEMBRE",
+  "10": "OCTUBRE",
+  "11": "NOVIEMBRE",
+  "12": "DICIEMBRE",
+};
 ---
 
-<div class="pt-20 h-full ">
-    <section class="h-full p-4 s flex flex-col gap-4">
+<div class="pt-20 h-full">
+  {
+    meses &&
+      Object.keys(meses)
+        .sort()
+        .map((mes) => {
+          const eventosDelMes = eventosData.filter(
+            (evento) => evento.fechaEvento.split("-")[1] === mes
+          );
+          return eventosDelMes.length > 0 ? (
+            <section class="p-4 s flex flex-col gap-4" id={meses[mes]}>
+              <h1 class="text-4xl my-25  text-gray-700 font-black bg-gray-200 flex justify-center items-center">
+                {meses[mes]}
+              </h1>
+              <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4">
+                {eventosDelMes.map((evento) => (
+                  <EventoComponent evento={evento} />
+                ))}
+              </div>
+            </section>
+          ) : null;
+        })
+  }
 
-   
-    <h1 class="text-4xl text-gray-700 font-black bg-gray-200 flex justify-center items-center">ENERO</h1>
-    <EventoComponent/>
-    <EventoComponent/>
-    <EventoComponent/>
-    <EventoComponent/>
-     </section>
+  <!--  <section class="p-4 s flex flex-col gap-4">
+    <h1
+      class="text-4xl text-gray-700 font-black bg-gray-200 flex justify-center items-center"
+    >
+      
+    </h1>
 
+  </section> -->
 </div>

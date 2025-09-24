@@ -1,14 +1,28 @@
-<div class="bg-cyan-900 h-60 rounded-2xl p-4 relative">
-    <div class="border-t-2 border-b-2 py-2 border-gray-400">
+---
+import type { eventoInterface } from "../../interfaces/interfaces";
 
-        <h2 class="text-2xl text-white font-bold">Leon Alvarado</h2>
-    </div>
-    <div class="flex justify-between items-center my-4 text-xl ">
-         <p class="text-gray-200">22-09-2025</p>
-  
-    <p class="text-gray-200">Comayagua</p>
+type Props = {
+  evento: eventoInterface;
+};
+const { evento } = Astro.props as Props;
+---
 
-    </div>
-   
-    <p class="text-gray-400 absolute bottom-5 ">FECCHA</p>
+<div class="bg-cyan-900 h-120 rounded-2xl p-4 relative">
+  <div class="bg-white w-full h-60 rounded-2xl overflow-hidden mb-4">
+    <img
+      src={evento.imagenURLEvento}
+      alt=""
+      class="w-full h-full object-cover object-center"
+    />
+  </div>
+  <div class="border-t-2 border-b-2 py-2 border-gray-400">
+    <h2 class="text-2xl text-white font-bold">{evento.lugarEvento}</h2>
+  </div>
+  <div class="flex justify-between items-center my-4 text-xl">
+    <p class="text-gray-200">{evento.fechaEvento}</p>
+
+    <p class="text-gray-200">{evento.ciudadEvento}</p>
+  </div>
+
+  <p class="text-gray-400 absolute bottom-5">{evento.federacionEvento}</p>
 </div>
