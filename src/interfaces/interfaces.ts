@@ -21,3 +21,14 @@ export interface campeonesEscuadraInteface{
     categoria: string;
 
 }
+
+export interface eventoInterface{
+    idEvento: string;
+    lugarEvento: string;
+    fechaEvento: string;
+    ciudadEvento: string;
+    federacionEvento: string;
+    cordenadasEvento: string;
+    imagenURLEvento: string;
+
+}
