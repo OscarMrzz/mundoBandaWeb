@@ -4,7 +4,7 @@ import EstadisticasServices from "../lib/Services/EstadisticasServices";
 
 
 const estadisticasServices = new EstadisticasServices();
-const dataEstadisticas: estadisticaBandaInterface[] = await estadisticasServices.getDataPremierGL();
+const dataEstadisticas: estadisticaBandaInterface[] = await estadisticasServices.getDataAGL();
 
 
 async function extrarIdsUnicosBandas(estadisticas: estadisticaBandaInterface[]) {
@@ -24,10 +24,17 @@ const coloresliniaGrafica: Record<string, string> = {
   "04": "rgb(255, 206, 86)",
   "05": "rgb(153, 102, 255)",
   "06": "rgb(255, 159, 64)",
+  "07": "rgb(201, 203, 207)",
+  "08": "rgb(255, 99, 71)",
+  "09": "rgb(100, 149, 237)",
+  "10": "rgb(60, 179, 113)",
+  "11": "rgb(238, 130, 238)",
+  "12": "rgb(255, 215, 0)",
+  
 
 };
 
-export const dataGraficaLiniaPremier: Record<string, DataLinearInterface> = {
+export const dataGraficaLiniarA: Record<string, DataLinearInterface> = {
   ascendente: {
     labels: ["01","02","03","04","05","06","07","08","09","10","11","12","13","14","15","16","17","18"],
     datasets: [

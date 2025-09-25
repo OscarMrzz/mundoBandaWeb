@@ -1,0 +1,1635 @@
+[
+  {
+    "idRegistroEstadisticas": "1",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "2",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "3",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "4",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "5",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "6",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "7",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "8",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 75
+  },
+  {
+    "idRegistroEstadisticas": "9",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 78
+  },
+  {
+    "idRegistroEstadisticas": "10",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "11",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "12",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 76
+  },
+  {
+    "idRegistroEstadisticas": "13",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 76
+  },
+  {
+    "idRegistroEstadisticas": "14",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "15",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "16",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "17",
+    "idBanda": "01",
+    "nombreBanda": "Inst. Delfina Mejia",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "18",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "19",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "20",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "21",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "22",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 75
+  },
+  {
+    "idRegistroEstadisticas": "23",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "24",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "25",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "26",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 79
+  },
+  {
+    "idRegistroEstadisticas": "27",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 71
+  },
+  {
+    "idRegistroEstadisticas": "28",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 75
+  },
+  {
+    "idRegistroEstadisticas": "29",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "30",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "31",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "32",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "33",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "34",
+    "idBanda": "02",
+    "nombreBanda": "Inst. Franklin D. Roosevelt",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "35",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "36",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "37",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 63
+  },
+  {
+    "idRegistroEstadisticas": "38",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 69
+  },
+  {
+    "idRegistroEstadisticas": "39",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "40",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 64
+  },
+  {
+    "idRegistroEstadisticas": "41",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "42",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "43",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 78
+  },
+  {
+    "idRegistroEstadisticas": "44",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "45",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "46",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "47",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "48",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "49",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "50",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "51",
+    "idBanda": "03",
+    "nombreBanda": "Ins. Bethel",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "52",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "53",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 63
+  },
+  {
+    "idRegistroEstadisticas": "54",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "55",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 64
+  },
+  {
+    "idRegistroEstadisticas": "56",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "57",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "58",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "59",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "60",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 79
+  },
+  {
+    "idRegistroEstadisticas": "61",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 75
+  },
+  {
+    "idRegistroEstadisticas": "62",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "63",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "64",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "65",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "66",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "67",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "68",
+    "idBanda": "04",
+    "nombreBanda": "Independiente Lluvia de peces",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "69",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "70",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "71",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "72",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "73",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 69
+  },
+  {
+    "idRegistroEstadisticas": "74",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 63
+  },
+  {
+    "idRegistroEstadisticas": "75",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "76",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "77",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 78
+  },
+  {
+    "idRegistroEstadisticas": "78",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "79",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "80",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "81",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "82",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "83",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "84",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "85",
+    "idBanda": "05",
+    "nombreBanda": "Inst. Sain Anthony",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "86",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "87",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "88",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "89",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "90",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 69
+  },
+  {
+    "idRegistroEstadisticas": "91",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "92",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "93",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 69
+  },
+  {
+    "idRegistroEstadisticas": "94",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "95",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "96",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "97",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "98",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "99",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "100",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "101",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "102",
+    "idBanda": "06",
+    "nombreBanda": "Ceb Minerva",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  
+  {
+    "idRegistroEstadisticas": "103",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "104",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 59
+  },
+  {
+    "idRegistroEstadisticas": "105",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 57
+  },
+  {
+    "idRegistroEstadisticas": "106",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 59
+  },
+  {
+    "idRegistroEstadisticas": "107",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "108",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "109",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "110",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "111",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 76
+  },
+  {
+    "idRegistroEstadisticas": "112",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "113",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "114",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 62
+  },
+  {
+    "idRegistroEstadisticas": "115",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 68
+  },
+  {
+    "idRegistroEstadisticas": "116",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "117",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "118",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "119",
+    "idBanda": "07",
+    "nombreBanda": "Independiente Santa Cruz",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "120",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "121",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 55
+  },
+  {
+    "idRegistroEstadisticas": "122",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 55
+  },
+  {
+    "idRegistroEstadisticas": "123",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "124",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "125",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "126",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "127",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 64
+  },
+  {
+    "idRegistroEstadisticas": "128",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 71
+  },
+  {
+    "idRegistroEstadisticas": "129",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "130",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "131",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 63
+  },
+  {
+    "idRegistroEstadisticas": "132",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 64
+  },
+  {
+    "idRegistroEstadisticas": "133",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "134",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "135",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "136",
+    "idBanda": "08",
+    "nombreBanda": "inst. R.H Nueva Generacion",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "137",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "138",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 47
+  },
+  {
+    "idRegistroEstadisticas": "139",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "140",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "141",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 60
+  },
+  {
+    "idRegistroEstadisticas": "142",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 57
+  },
+  {
+    "idRegistroEstadisticas": "143",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "144",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "145",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 71
+  },
+  {
+    "idRegistroEstadisticas": "146",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "147",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "148",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 62
+  },
+  {
+    "idRegistroEstadisticas": "149",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "150",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "151",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "152",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "153",
+    "idBanda": "09",
+    "nombreBanda": "Independiente 0501",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "154",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "155",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 64
+  },
+  {
+    "idRegistroEstadisticas": "156",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "157",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "158",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "159",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 60
+  },
+  {
+    "idRegistroEstadisticas": "160",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "161",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "162",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 72
+  },
+  {
+    "idRegistroEstadisticas": "163",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 63
+  },
+  {
+    "idRegistroEstadisticas": "164",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "165",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "166",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 61
+  },
+  {
+    "idRegistroEstadisticas": "167",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "168",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "169",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "170",
+    "idBanda": "10",
+    "nombreBanda": "int. Gabino Vasquez Argueta",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "171",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "172",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "173",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 59
+  },
+  {
+    "idRegistroEstadisticas": "174",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 65
+  },
+  {
+    "idRegistroEstadisticas": "175",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 74
+  },
+  {
+    "idRegistroEstadisticas": "176",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "177",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "178",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 58
+  },
+  {
+    "idRegistroEstadisticas": "179",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "180",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 67
+  },
+  {
+    "idRegistroEstadisticas": "181",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "182",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "183",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "184",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "185",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "186",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "187",
+    "idBanda": "11",
+    "nombreBanda": "Inst. Manantial de Valores",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "188",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Festiva",
+    "fecha": "2025-06-15",
+    "puntosBanda": 50
+  },
+  {
+    "idRegistroEstadisticas": "189",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Inst. Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "190",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Ins. FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "191",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "inst. ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "192",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "indep. Cobradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 73
+  },
+  {
+    "idRegistroEstadisticas": "193",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "ijnst. Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 66
+  },
+  {
+    "idRegistroEstadisticas": "194",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "inst. Froylan Turcios",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "195",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Indep. IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 70
+  },
+  {
+    "idRegistroEstadisticas": "196",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Inst. San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "197",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "198",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Delfina Mejia",
+    "fecha": "2025-08-31",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "199",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "inst. Perla del Ulua",
+    "fecha": "2025-09-07",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "200",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "Leon Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "201",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "UTH",
+    "fecha": "2025-09-28",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "202",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "indep. Tecno",
+    "fecha": "2025-10-12",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "203",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "ind. Ezperanzana",
+    "fecha": "2025-10-26",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "204",
+    "idBanda": "12",
+    "nombreBanda": "inst. Ernesto ponce",
+    "lugar": "ASB",
+    "fecha": "2025-11-02",
+    "puntosBanda": 0
+  }
+]
