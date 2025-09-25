@@ -1,19 +1,60 @@
 ---
-import GraficaBarraPremier from "./graficas/GraficaBarrasPremier";
-import GraficaLiniasPremier from "./graficas/GraficaLiniasPremier";
+import GraficaBarra from "./graficas/GraficaBarras";
+import GraficaLiniar from "./graficas/GraficaLiniar";
+import { dataGraficabarraPremier } from "../../Feacture/cofigGraficaBarraPremier";
+import { dataGraficaLiniaPremier } from "../../Feacture/ConfigGraficas";
+import { dataGraficabarraA } from "../../Feacture/confiGraficaBarrasA";
+import { dataGraficaLiniarA } from "../../Feacture/CongGraficaLiniarA";
+import { dataGraficabarraB } from "../../Feacture/confogGraficaBarraB";
+import { dataGraficaLiniarB } from "../../Feacture/configGraficaLiniarB";
 ---
 
 <div class="pt-15">
-  <section class="mb-10">
-    <h1 class="text-4xl text-white font-black px-10">ESTADISTICAS</h1>
-    <h2 class="text-2xl font-bold text-gray-200 px-10">LINIA DE TIEMPO</h2>
-    <h3 class="text-2xl text-gray-300 px-10">PREMIER</h3>
-    <GraficaLiniasPremier client:load />
-  </section>
+  <h1 class="text-4xl text-white font-black px-10">ESTADISTICAS</h1>
   <section>
-    <h2 class="text-2xl font-bold text-gray-200 px-10">TOTAL DE PUNTOS</h2>
     <h3 class="text-2xl text-gray-300 px-10">PREMIER</h3>
+    <article class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-200 px-10">LINIA DE TIEMPO</h2>
 
-    <GraficaBarraPremier client:visible />
+      <GraficaLiniar client:load data={dataGraficaLiniaPremier} minimo={70} maximo={100} />
+    </article>
+  </section>
+
+  <article class="mb-10">
+    <h2 class="text-2xl font-bold text-gray-200 px-10">TOTAL DE PUNTOS</h2>
+
+    <GraficaBarra client:visible data={dataGraficabarraPremier} />
+  </article>
+
+  <section>
+    <h3 class="text-2xl text-gray-300 px-10">CATEGORIA A</h3>
+
+    <article class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-200 px-10">LINIA DE TIEMPO</h2>
+
+      <GraficaLiniar client:load data={dataGraficaLiniarA} minimo={50} maximo={100} />
+    </article>
+
+    <article>
+      <h2 class="text-2xl font-bold text-gray-200 px-10">TOTAL DE PUNTOS</h2>
+
+      <GraficaBarra client:visible data={dataGraficabarraA} />
+    </article>
+  </section>
+
+  <section>
+    <h3 class="text-2xl text-gray-300 px-10">CATEGORIA B</h3>
+
+    <article class="mb-10">
+      <h2 class="text-2xl font-bold text-gray-200 px-10">LINIA DE TIEMPO</h2>
+
+      <GraficaLiniar client:load data={dataGraficaLiniarB}  minimo={40} maximo={90}/>
+    </article>
+
+    <article>
+      <h2 class="text-2xl font-bold text-gray-200 px-10">TOTAL DE PUNTOS</h2>
+
+      <GraficaBarra client:visible data={dataGraficabarraB} />
+    </article>
   </section>
 </div>
