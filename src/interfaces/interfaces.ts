@@ -1,6 +1,6 @@
-export interface campeonesInterface{
-   idBanda: number;
-    
+export interface campeonesInterface {
+    idBanda: number;
+
     nombreBanda: string;
     posicion: number;
     fechaEvento: string;
@@ -10,9 +10,9 @@ export interface campeonesInterface{
     evento: string;
 
 }
-export interface campeonesEscuadraInteface{
+export interface campeonesEscuadraInteface {
     idBanda: number;
-    
+
     nombreBanda: string;
     escuadra: string;
     fechaEvento: string;
@@ -22,7 +22,7 @@ export interface campeonesEscuadraInteface{
 
 }
 
-export interface eventoInterface{
+export interface eventoInterface {
     idEvento: string;
     lugarEvento: string;
     fechaEvento: string;
@@ -32,3 +32,19 @@ export interface eventoInterface{
     imagenURLEvento: string;
 
 }
+
+
+
+
+
+export interface estadisticaBandaInterface {
+    idRegistroEstadisticas: string;
+    idBanda: string;
+    nombreBanda: string;
+    lugar: string;
+    fecha: string;
+    puntosBanda: number;
+}
+
+
+
