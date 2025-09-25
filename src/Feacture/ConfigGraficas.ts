@@ -3,7 +3,7 @@ import EstadisticasServices from "../lib/Services/EstadisticasServices";
 
 
 const estadisticasServices = new EstadisticasServices();
-const dataEstadisticas: estadisticaBandaInterface[] = await estadisticasServices.getDataPremier();
+const dataEstadisticas: estadisticaBandaInterface[] = await estadisticasServices.getDataPremierGL();
 
 
 async function extrarIdsUnicosBandas(estadisticas: estadisticaBandaInterface[]) {

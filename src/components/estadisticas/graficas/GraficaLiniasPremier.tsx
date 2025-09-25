@@ -48,9 +48,12 @@ const OPTIONS: any = {
       },
     },
     y: {
-      beginAtZero: true,
+      beginAtZero: false,
+      min: 70, // Valor mínimo del eje Y (cambia este valor según necesites)
+      max: 100, // Valor máximo del eje Y (opcional, puedes omitirlo para que sea automático)
       ticks: {
         color: "#9ca3af", // color texto eje Y
+        stepSize: 5, // Incremento entre cada marca del eje Y
       },
       grid: {
         color: "#374151", // color líneas de grid
@@ -69,17 +72,12 @@ export default function LineChartDemo() {
 
   return (
     <div className="p-4 w-full ">
-  
-
- 
-
       <div
         className="bg-gray-800 p-3 rounded-lg shadow"
         style={{ height: "400px" }}
       >
         <Line data={dataGraficaLiniaPremier[exampleKey]} options={OPTIONS} />
       </div>
-
     </div>
   );
 }

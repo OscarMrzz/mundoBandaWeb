@@ -1,0 +1,570 @@
+[
+
+  {
+    "idRegistroEstadisticas": "2",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "3",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "4",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "5",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 97
+  },
+  {
+    "idRegistroEstadisticas": "6",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "7",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "8",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "9",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 97
+  },
+  {
+    "idRegistroEstadisticas": "10",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 91
+  },
+  {
+    "idRegistroEstadisticas": "11",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 98
+  },
+  {
+    "idRegistroEstadisticas": "12",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 97
+  },
+  {
+    "idRegistroEstadisticas": "13",
+    "idBanda": "01",
+    "nombreBanda": "TECNO",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+
+  {
+    "idRegistroEstadisticas": "15",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 90
+  },
+  {
+    "idRegistroEstadisticas": "16",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 87
+  },
+  {
+    "idRegistroEstadisticas": "17",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 93
+  },
+  {
+    "idRegistroEstadisticas": "18",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 93
+  },
+  {
+    "idRegistroEstadisticas": "19",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 88
+  },
+  {
+    "idRegistroEstadisticas": "20",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "21",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "22",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "23",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 91
+  },
+  {
+    "idRegistroEstadisticas": "24",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "25",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "26",
+    "idBanda": "02",
+    "nombreBanda": "IPC",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+
+
+  {
+    "idRegistroEstadisticas": "29",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 83
+  },
+  {
+    "idRegistroEstadisticas": "30",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 90
+  },
+  {
+    "idRegistroEstadisticas": "31",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 87
+  },
+  {
+    "idRegistroEstadisticas": "32",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 83
+  },
+  {
+    "idRegistroEstadisticas": "33",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 87
+  },
+  {
+    "idRegistroEstadisticas": "34",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 88
+  },
+  {
+    "idRegistroEstadisticas": "35",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 90
+  },
+  {
+    "idRegistroEstadisticas": "36",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 89
+  },
+  {
+    "idRegistroEstadisticas": "37",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 91
+  },
+  {
+    "idRegistroEstadisticas": "38",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 93
+  },
+  {
+    "idRegistroEstadisticas": "39",
+    "idBanda": "03",
+    "nombreBanda": "MBP",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 0
+  },
+
+
+  {
+    "idRegistroEstadisticas": "42",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 90
+  },
+  {
+    "idRegistroEstadisticas": "43",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "44",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "45",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "46",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "47",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "48",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 97
+  },
+  {
+    "idRegistroEstadisticas": "49",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "50",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "51",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 99
+  },
+  {
+    "idRegistroEstadisticas": "52",
+    "idBanda": "04",
+    "nombreBanda": "PATRIA",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 98
+  },
+
+  {
+    "idRegistroEstadisticas": "54",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 93
+  },
+  {
+    "idRegistroEstadisticas": "55",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 86
+  },
+  {
+    "idRegistroEstadisticas": "56",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "57",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "58",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "59",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "60",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "61",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 94
+  },
+  {
+    "idRegistroEstadisticas": "62",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 88
+  },
+  {
+    "idRegistroEstadisticas": "63",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "64",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 95
+  },
+  {
+    "idRegistroEstadisticas": "65",
+    "idBanda": "05",
+    "nombreBanda": "ASB",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 97
+  },
+
+  {
+    "idRegistroEstadisticas": "67",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Patria",
+    "fecha": "2025-06-22",
+    "puntosBanda": 81
+  },
+  {
+    "idRegistroEstadisticas": "68",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "FDR",
+    "fecha": "2025-06-29",
+    "puntosBanda": 84
+  },
+  {
+    "idRegistroEstadisticas": "69",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "ISA",
+    "fecha": "2025-07-06",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "70",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Cofradilla",
+    "fecha": "2025-07-13",
+    "puntosBanda": 90
+  },
+  {
+    "idRegistroEstadisticas": "71",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Pagan",
+    "fecha": "2025-07-20",
+    "puntosBanda": 84
+  },
+  {
+    "idRegistroEstadisticas": "72",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Froylan",
+    "fecha": "2025-07-27",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "73",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "IPC",
+    "fecha": "2025-08-03",
+    "puntosBanda": 89
+  },
+  {
+    "idRegistroEstadisticas": "74",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "San Ramon",
+    "fecha": "2025-08-17",
+    "puntosBanda": 88
+  },
+  {
+    "idRegistroEstadisticas": "75",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Tio Dolmo",
+    "fecha": "2025-08-24",
+    "puntosBanda": 88
+  },
+  {
+    "idRegistroEstadisticas": "76",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Delfina",
+    "fecha": "2025-08-24",
+    "puntosBanda": 0
+  },
+  {
+    "idRegistroEstadisticas": "77",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Perla",
+    "fecha": "2025-09-07",
+    "puntosBanda": 92
+  },
+  {
+    "idRegistroEstadisticas": "78",
+    "idBanda": "06",
+    "nombreBanda": "SAN RAMON",
+    "lugar": "Len Alvarado",
+    "fecha": "2025-09-21",
+    "puntosBanda": 91
+  }
+]
